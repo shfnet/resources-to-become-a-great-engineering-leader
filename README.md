@@ -1,5 +1,7 @@
 # 100+ Resources to become a great engineering leader
 
+[The blog post](https://newsletter.eng-leadership.com/p/100-resources-to-become-a-great-engineering)
+
 **List of books, newsletters, people and more!**
 
 Investing in yourself is a great investment anytime! I am sharing with you my personally curated resources to level up and grow to become a great engineering leader in 2024! 
